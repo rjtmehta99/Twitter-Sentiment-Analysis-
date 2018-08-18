@@ -13,9 +13,9 @@ Here is the visualization of the keyword "Machine Learning".
 
 The visualization includes bar chart and a word cloud that shows.
 
-https://github.com/rjtmehta99/Twitter-Sentiment-Analysis-/blob/master/barchart.png
+![alt text](https://github.com/rjtmehta99/Twitter-Sentiment-Analysis-/blob/master/barchart.png)
 
-https://github.com/rjtmehta99/Twitter-Sentiment-Analysis-/blob/master/wordcloud.png
+![alt text](https://github.com/rjtmehta99/Twitter-Sentiment-Analysis-/blob/master/wordcloud.png)
 
 
 
